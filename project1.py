@@ -57,7 +57,7 @@ elif template=='3':
     Noun=input("noun: ")
     Noun2=input("noun 2: ")  
     Noun3=input("noun 3(plural): ")
-    Adjective4=input("adjective4: ")
+    Adjective4=input("adjective
     Noun4=input("noun 4(plural): ")
     Number=input("number: ")
     Measure_of_time=input("measure_of_time: ")
