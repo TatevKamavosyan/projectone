@@ -79,7 +79,7 @@ else:
     noun_plural3=input("noun 3(plural): "),
     adjective4=input("adjective: "),
     noun_plural4=input("noun 4(plural): "),
-    number=input("number: "),
+    number=int(input("number: ")),
     measure_of_time=input("measure_of_time: "),
     verb_ending_in_ing=input("verb: "),
     adjective5=input("adjective5: "),
